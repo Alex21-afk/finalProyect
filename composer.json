@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "classmap": ["sistema/"]
+    },
+    "require": {
+        "phpunit/phpunit": "6.1",
+        "phpunit/php-code-coverage": "5.0.0"
+    }
+}
